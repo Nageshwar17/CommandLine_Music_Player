@@ -6,7 +6,6 @@ class ButtonThread extends Playz {
     @SuppressWarnings("static-access")
     @Override
     public void run() {
-        // TODO Auto-generated method stub
         Scanner sc=new Scanner(System.in);
         while(super.next>0){
         System.out.println("\n\n\n\n\n\n[4] <<   ->PREVIOUS SONG           [5] >/|| ->PLAY OR PAUSE          [6] >>   ->NEXT SONG\n");
@@ -14,7 +13,6 @@ class ButtonThread extends Playz {
         try {
             Thread.sleep(100);
         } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         if(super.p%2!=0)
