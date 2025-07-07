@@ -1,4 +1,3 @@
-
 import java.util.*;
 import patternArts.Art;
 
