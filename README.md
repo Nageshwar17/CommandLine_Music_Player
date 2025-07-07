@@ -90,5 +90,8 @@ GUI version with JavaFX or Swing.
 
 Playlist management (add/remove songs).
 
+
+![command line interface 1](<Screenshot 2025-07-07 075216.png>) ![command line interface 1](<Screenshot 2025-07-07 075153.png>)
+
 📜 License
 This project is open-source and free to use for learning purposes.
